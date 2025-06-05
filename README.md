@@ -7,6 +7,7 @@ Unity version:
 Some part of the current test content are created using edited external packages:
 Easy Text Effects - https://github.com/LeiQiaoZhi/Easy-Text-Effects-for-Unity.git
 Hyper Casual FX - https://assetstore.unity.com/packages/vfx/particles/hyper-casual-fx-200333
+UI Blur shaders - https://assetstore.unity.com/packages/vfx/shaders/ui-blur-173331
 
 In order to create the different C# scripts I used ChatGPT and Claude. I understand the logic I need behind but I'm not good with the code gramatics so AI covers now my weakness.
 
